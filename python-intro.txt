@@ -1,0 +1,56 @@
+What is Python?
+
+Python is a:
+
+High-level programming language
+
+Easy to read & write
+
+Interpreted language
+
+Open-source and free
+
+Created by Guido van Rossum in 1991.
+
+⭐ Why Python is popular?
+
+✔ Simple English-like syntax
+✔ Less code, more work
+✔ Huge library support
+✔ Used in many fields
+✔ Beginner-friendly
+
+🛠 Where is Python used?
+
+🌐 Web Development (Django, Flask)
+
+📊 Data Science & AI
+
+🤖 Machine Learning
+
+🧪 Automation / Scripting
+
+🎮 Game Development
+
+🖥 Desktop Applications
+
+🔐 Cyber Security
+
+🧱 Python Features
+
+No need to declare data types
+
+Object-Oriented
+
+Platform independent
+
+Large standard library
+
+Supports multiple paradigms
+
+🧪 First Python Program
+print("Hello, World!")
+
+
+✔ No main() method
+✔ No semicolon ;
