@@ -1,0 +1,9 @@
+What is Python?
+
+Python is a:
+
+High-level programming language
+
+Easy to read & write
+
+Interpreted language
